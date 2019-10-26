@@ -1,0 +1,57 @@
+body{
+   background-image:linear-gradient(to top, #cc2b5e, #753a88,orange);
+}
+
+#btn-click{
+      background-color: slategray;
+      color: white;
+      border: 1px solid purple;
+      border-radius: 5rem;
+      padding: 1rem 40px;
+      display: inline-block;
+      outline: none;
+      margin-right: 400px;    
+      align-content: center;
+      align-items: center;
+      margin-left: -22%;
+      font-size: 13px;
+}
+
+#btn-click:hover{
+   background-color: teal;
+   color: white;
+}
+
+
+ol>li{
+   text-align: center;
+   padding-right: 5%;
+   padding-bottom: 1%;
+   padding-top: 1%;
+   margin-bottom: 1%;
+   background-color: rgb(124, 184, 164);
+   color: black;
+   font-size: 24px;
+   border-radius: 2px;
+   margin: 1;
+   font-weight: 600;
+}
+
+#items{
+   background-color: white;
+}
+
+
+#type{
+   font-size: 20px;
+   padding: 10px 0px;
+   height: 20px;
+   margin: 2% 300px; 
+   border-radius: 10px;
+   outline: none;
+   border: none;
+   font-family: 'Muli', sans-serif;
+
+
+
+}
